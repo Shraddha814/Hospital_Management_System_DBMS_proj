@@ -109,5 +109,5 @@ This project demonstrates strong understanding of **DBMS concepts, SQL programmi
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/Shraddha814/Hospital_Management_System_DBMS_proj.git
-cd hospital-management-system
+git clone https://github.com/Shraddha814/Hospital_Management_System.git
+cd Hospital_Management_System
