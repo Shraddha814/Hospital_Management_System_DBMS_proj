@@ -100,6 +100,9 @@ This project demonstrates strong understanding of **DBMS concepts, SQL programmi
 ### 🔹 Reports
 ![Reports](screenshots/reports.png)
 
+### 🔹 Treatment
+![Reports](screenshots/treatment.png)
+
 ---
 
 ## ⚙️ Setup & Installation
