@@ -1,4 +1,4 @@
-# Hospital_Management_System_DBMS_proj
+# Hospital_Management_System
 DBMS Mini Project: A Hospital Management System to manage patients, doctors, appointments using structured database design and SQL operations.
 This project demonstrates strong understanding of **DBMS concepts, SQL programming, and database-driven application development**.
 
